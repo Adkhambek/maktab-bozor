@@ -1,4 +1,3 @@
 # Maktab bozor bot (eski proyekt)
 
-Buyurtma asosida qilngan bot.
-Maktab bozor bot (dastafka bot) web admin panel bilan birga qilingan.
+Ushbu bot buyurtma asosida qilingan bo'lib, admin paneli webda bo'lgan. Bot orqali maktab bozorni uyda o'tirib qilish imkoniyatiga ega bo'lasiz (dastafka bot).
